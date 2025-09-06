@@ -1,4 +1,4 @@
-## 📖 Incident Report and Security Improvement Plan using NIST Cybersecurity Framework (CSF)
+## 📖 Incident Report and Security Improvement Plan using NIST CSF
 
 ---
 
