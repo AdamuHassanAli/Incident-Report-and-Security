@@ -1,11 +1,9 @@
-# 📌 Portfolio Project Summary
 
-## 📖 Project Title
-**Incident Report and Security Improvement Plan using NIST Cybersecurity Framework (CSF)**
+## 📖 Incident Report and Security Improvement Plan using NIST Cybersecurity Framework (CSF)
 
 ---
 
-## 📌 Overview
+# 📌 Portfolio Project Summary
 As a cybersecurity analyst for a multimedia company offering web design, graphic design, and social media marketing solutions, I conducted an incident analysis after the organization experienced a **Distributed Denial of Service (DDoS) attack**.  
 The attack involved a **flood of ICMP packets** that disrupted internal network services for two hours.  
 This project required me to apply the **NIST Cybersecurity Framework (CSF)** to document the incident, identify vulnerabilities, and develop a plan to strengthen the organization’s security posture.
